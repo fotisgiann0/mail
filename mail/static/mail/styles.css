@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+/* #email-view > button {
+    color: blue;
+    background-color: white;
+    border-color: blue;
+} */
+#emails-view > div {
+    white-space: pre;
+    border-style: solid;
+    display:inline;
+    border-width: thin;
+    
+}
